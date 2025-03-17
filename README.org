@@ -1,0 +1,10 @@
+I don't use GitHub much these days, to find a mostly up to date list of projects I'm working on, see my [[https://redalder.org][website]]. But here is a short (possibly outdated summary):
+
+- [[https://github.com/nix-community/buildbot-nix][​~buildbot-nix~​]]: Buildbot plugin, which makes Buildbot a Nix native CI/CD system
+- [[https://github.com/nix-community/NixNG][​~NixNG~​]]: a Nix based Linux distrubution specifically meant for containers
+- [[https://git.redalder.org/magic_rb/haci][​~haci~​]]: CI-like experiment in Haskell
+- [[https://codeberg.org/magic_rb/percept][​~percept~​]]: photo gallery in Haskell
+- [[https://git.sr.ht/~magic_rb/haskell-games][​~haskell-games~​]]: games in Haskell
+- [[https://git.redalder.org/magic_rb/rock-emacs][​~rock-emacs~​]]: experimental modular Emacs configuration
+
+Feel free to contact me at Matrix ~@magic_rb:matrix.redalder.org~ or Discord ~magic_rb.~, (less preferred).
