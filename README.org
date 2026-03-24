@@ -7,4 +7,4 @@ I don't use GitHub much these days, to find a mostly up to date list of projects
 - [[https://git.sr.ht/~magic_rb/haskell-games][​~haskell-games~​]]: games in Haskell
 - [[https://git.redalder.org/magic_rb/rock-emacs][​~rock-emacs~​]]: experimental modular Emacs configuration
 
-Feel free to contact me at Matrix ~@magic_rb:matrix.redalder.org~ or Discord ~magic_rb.~, (less preferred).
+Feel free to contact me at Matrix ~@magic_rb:matrix.redalder.org~.
